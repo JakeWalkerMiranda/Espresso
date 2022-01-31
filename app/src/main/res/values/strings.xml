@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PocTests</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="enter">Login</string>
+    <string name="previous">Voltar</string>
+
+    <string name="login_title">Aplicativo de testes</string>
+    <string name="home_title">Logado com Sucesso. Arg: %1$s</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_password">Senha</string>
+</resources>
